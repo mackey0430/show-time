@@ -71,7 +71,6 @@ body {
     color: black;
 }
 
-
 /* ボトムタブ */
 
 .buttom_tab {
@@ -87,7 +86,6 @@ body {
     display: flex;
 }
 
-
 /* 友達のお題ボタン */
 
 .buttom_tab_firend_post {
@@ -99,14 +97,12 @@ body {
     text-align: center;
 }
 
-
 /* 友達のお題ボタンのアイコン */
 
 .friend_post_icon {
     color: white;
     font-size: 3vh;
 }
-
 
 /* お題を作るボタン */
 
@@ -121,14 +117,12 @@ body {
     text-decoration: none;
 }
 
-
 /* お題を作るボタンのアイコン */
 
 .add_post_icon {
     height: 60px;
     width: 60px;
 }
-
 
 /* アカウントボタン */
 
@@ -141,14 +135,12 @@ body {
     text-align: center;
 }
 
-
 /* アカウントボタンのアイコン */
 
 .account_icon {
     color: white;
     font-size: 3vh;
 }
-
 
 /* アイコンのテキスト */
 
@@ -162,3 +154,5 @@ body {
 .buttom_tab_text:hover {
     text-decoration: underline;
 }
+
+/* aaaaa */
